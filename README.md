@@ -12,7 +12,7 @@ A modern and fully responsive **Amazon Homepage Clone** built using **HTML5, CSS
 
 🌐 **Live Website:** https://your-username.github.io/amazon_homepage_clone/
 
-💻 **GitHub Repository:** https://github.com/your-username/amazon_homepage_clone
+💻 **GitHub Repository:** https://github.com/KumariRitu@1/amazon_homepage_clone
 
 ---
 
@@ -121,7 +121,7 @@ This project helped strengthen my understanding of:
 Frontend Developer & Python Programmer
 
 - 🔗 GitHub: https://github.com/KumariRitu21
-- 💼 LinkedIn: https://www.linkedin.com/in/kumari-ritu-8389983b2 
+- 💼 LinkedIn: [https://www.linkedin.com/in/kumari-ritu-8389983b2 ](https://www.linkedin.com/in/kumari-ritu-8389983b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
