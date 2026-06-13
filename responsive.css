@@ -1,0 +1,247 @@
+@media screen and (max-width:1200px){
+
+    .nav-search{
+
+        width:450px;
+
+    }
+
+    .panel-ops{
+
+        width:60%;
+
+    }
+
+    .box{
+
+        width:30%;
+
+    }
+
+}
+
+@media screen and (max-width:992px){
+
+    .navbar{
+
+        flex-wrap:wrap;
+
+        height:auto;
+
+        padding:10px;
+
+    }
+
+    .navlogo,
+    .navaddress,
+    .nav-signin,
+    .orders,
+    .cart{
+
+        margin:5px;
+
+    }
+
+    .nav-search{
+
+        width:100%;
+
+        margin-top:10px;
+
+        order:3;
+
+    }
+
+    .panel{
+
+        flex-wrap:wrap;
+
+        height:auto;
+
+        padding:10px;
+
+    }
+
+    .panel-ops{
+
+        width:100%;
+
+        margin-top:10px;
+
+    }
+
+    .panel-ops p{
+
+        display:inline-block;
+
+        margin:5px 10px;
+
+    }
+
+    .panel-deals{
+
+        display:none;
+
+    }
+
+    .box{
+
+        width:45%;
+
+    }
+
+}
+
+@media screen and (max-width:768px){
+
+    .navbar{
+
+        justify-content:center;
+
+        gap:10px;
+
+    }
+
+    .navlogo{
+
+        width:80px;
+
+    }
+
+    .navaddress{
+
+        display:none;
+
+    }
+
+    .nav-signin{
+
+        display:none;
+
+    }
+
+    .orders{
+
+        display:none;
+
+    }
+
+    .nav-search{
+
+        width:95%;
+
+    }
+
+    .panel{
+
+        display:none;
+
+    }
+
+    .herosection{
+
+        height:250px;
+
+        background-position:center;
+
+    }
+
+    .heromsg{
+
+        width:95%;
+
+        height:auto;
+
+        padding:10px;
+
+        text-align:center;
+
+    }
+
+    .box{
+
+        width:90%;
+
+    }
+
+    .box1-image{
+
+        height:220px;
+
+    }
+
+    .foot-2{
+
+        flex-direction:column;
+
+        height:auto;
+
+        padding:20px;
+
+    }
+
+    .foot-2 ul{
+
+        margin-bottom:20px;
+
+    }
+
+}
+
+@media screen and (max-width:480px){
+
+    .logo{
+
+        width:80px;
+
+        height:40px;
+
+    }
+
+    .nav-search{
+
+        height:35px;
+
+    }
+
+    .Search-select{
+
+        width:45px;
+
+    }
+
+    .search-icon{
+
+        width:40px;
+
+    }
+
+    .herosection{
+
+        height:180px;
+
+    }
+
+    .box{
+
+        width:95%;
+
+    }
+
+    .box1-image{
+
+        height:180px;
+
+    }
+
+    .foot-4{
+
+        font-size:0.6rem;
+
+        height:auto;
+
+        padding:15px;
+
+    }
+
+}
