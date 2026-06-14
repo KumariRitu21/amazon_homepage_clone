@@ -10,7 +10,7 @@ A modern and fully responsive **Amazon Homepage Clone** built using **HTML5, CSS
 
 ## 🚀 Live Demo
 
-🌐 **Live Website:** https://netflix-homepage-clone-yrhi.vercel.app/
+🌐 **Live Website:** https://amazon-homepage-clone-lake.vercel.app/
 
 💻 **GitHub Repository:** https://github.com/KumariRitu21/amazon_homepage_clone
 
